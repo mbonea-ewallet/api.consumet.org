@@ -4,5 +4,5 @@ emoji: ❄️🤏
 colorFrom: purple
 colorTo: gray
 sdk: docker
-app_port: 7860
+app_port: 3000
 ---
